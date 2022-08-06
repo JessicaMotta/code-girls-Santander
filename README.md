@@ -6,21 +6,20 @@ Anotações e projetos realizados no Bootcamp Santander Code Girls da [ DIO ](ht
 <img alt="certificado" height="290" wid60th="290" src="https://user-images.githubusercontent.com/80103910/183231777-a8144ad1-9782-4b1d-b1f0-8bf2aafce100.png"/>
 </div>
 
-### Bootcamp composto por 4 módulos:
+### 💻 Bootcamp composto por 4 módulos:
  
-* Módulo I - Princípios de Desenvolvimento de Software.
+🔸Módulo I - Princípios de Desenvolvimento de Software.
 
   Introdução à programação e pensamento computacional, introdução ao Git e Github + Desafios práticos 
-
-* Modulo II - Começando a Programar em Java
+ 🔸Modulo II - Começando a Programar em Java
 
   Dominando IDEs Java, Variáveis, tipos de dados e operadores matemáticos em Java, Entendendo métodos Java, Lógica condicional e controle de Fluxos em Java, Estrutura de repetição e arrays em Java, trabalhando com Collections Java + Desafio básico de Java
 
-* Módulo III - Dominando Java 
+ 🔸Módulo III - Dominando Java 
 
   Programação Orientada a Objetos, práticando orientação a objetos com Java, Debuggin Java, tratamento de exceções em Java + Desafio de código e desafio de projeto 
 
-* Módulo IV - Introdução ao Spring Framework 
+🔸Módulo IV - Introdução ao Spring Framework 
 
   Principais protocolos de comunicação da internet, gerenciamento de dependências e Buildem Java, Introdução ao Spring Framework
 
