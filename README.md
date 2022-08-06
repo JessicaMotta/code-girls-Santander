@@ -29,4 +29,5 @@ Anotações e projetos realizados no Bootcamp Santander Code Girls da [ DIO ](ht
 💖 Agradecimentos aos docentes: [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) , [Otávio Reis](https://www.linkedin.com/in/operkles/), [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/), [Thiago Leite e Carvalho](https://www.linkedin.com/in/thiago-leite-e-carvalho-1b337b127/) e [Camila Cavalcante](https://www.linkedin.com/in/cami-la/). 💖
 
 <hr>
-Links Úteis: [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+Linkes Úteis: [Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
