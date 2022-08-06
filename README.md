@@ -8,7 +8,7 @@ Anotações e projetos realizados no Bootcamp Santander Code Girls da [ DIO ](ht
 
 ### 💻 Bootcamp composto por 4 módulos:
  
-🔸Módulo I - Princípios de Desenvolvimento de Software.
+🔸Módulo I - Princípios de Desenvolvimento de Software
 
   Introdução à programação e pensamento computacional, introdução ao Git e Github + Desafios práticos 
  🔸Modulo II - Começando a Programar em Java
